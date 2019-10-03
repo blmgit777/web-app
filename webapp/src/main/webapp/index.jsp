@@ -1,1 +1,1 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1> Hello Blm, This is tomcat server setup !!! </h1>
